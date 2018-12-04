@@ -1,3 +1,6 @@
-stsci_rtd_theme
 numpy
 matplotlib
+Cython
+astropy-helpers
+astropy
+-e git+https://github.com/mperrin/poppy.git#egg=poppy
